@@ -1,0 +1,11 @@
+{
+    "data_path":"features",
+    "step_path":"definitions",
+    "tags":"home",
+    "os":"windows",
+    "browser":"chrome",
+    "driver_path":"[path to chromedriver]",
+    "appium_path":null,
+    "url":"",
+    "mlo":["env.py", "pages.py", "steps.py"]
+}
